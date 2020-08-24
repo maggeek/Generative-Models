@@ -2,14 +2,14 @@
 GANs and generative Autoencoders implemented in PyTorch
 
 Repository with generative models implemented in PyTorch.
-It's an ongoing project, check back for more models in the near future.
+It's an ongoing project, check back for more models in the future.
 So far there are:
 - Wasserstein Adversarial Autoencoder with Residual Blocks
 - Deep Convolutional GAN
 
 Run main.py to start the training. 
 
-All parameters are to be found in config.py. You need to specify a foler path to your dataset.
+All parameters are to be found in config.py. You need to specify a folder path to your dataset.
 A functionality of loading a few benchmark datasets will be added soon.
 
 Wasserstein Adversarial Autoencoder implementation details:
